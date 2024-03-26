@@ -11,7 +11,14 @@
     	                        <img src="<?php the_sub_field('img'); ?>">
     	                        <div class="bg-para text-center">
     	                        <h3 class="entry-title">
-    	                        	<a href="<?php echo get_sub_field('url'); ?>" rel="bookmark"><?php the_sub_field('title'); ?></a>
+    	                        	<a href="
+                                    <?php 
+                                        if( get_sub_field('exstrenal_link') ) {
+                                            echo get_sub_field('exstrenal_link'); 
+                                        } else {
+                                            echo get_sub_field('url'); 
+                                        }
+                                    ?>" rel="bookmark"><?php the_sub_field('title'); ?></a>
     	                        </h3>
     								<!-- <h2><?php the_sub_field('title'); ?></h2> -->
     	                            <p><?php the_sub_field('content'); ?></p>
