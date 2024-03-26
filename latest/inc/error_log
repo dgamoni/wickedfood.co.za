@@ -1,0 +1,4 @@
+[05-Dec-2018 18:49:19 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/wickedfo/public_html/wp-content/themes/latest/inc/customizer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/inc/customizer.php on line 10

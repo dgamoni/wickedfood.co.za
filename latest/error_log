@@ -1,0 +1,60 @@
+[02-Nov-2018 10:08:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[02-Nov-2018 10:08:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[02-Nov-2018 10:08:54 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[02-Nov-2018 10:08:54 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[02-Dec-2018 17:52:02 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/404.php on line 8
+[05-Dec-2018 18:49:23 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/404.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/404.php on line 8
+[05-Dec-2018 18:49:28 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/archive.php on line 10
+[12-Jan-2019 17:41:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:41:56 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:42:05 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:42:05 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:42:28 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:42:28 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:42:34 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
+[12-Jan-2019 17:42:34 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/wickedfo/public_html/wp-content/themes/latest/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/wickedfo/public_html/wp-content/themes/latest/index.php on line 8
